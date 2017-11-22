@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="dl" type="Images" />
+      <mapping pattern="main_menu" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
